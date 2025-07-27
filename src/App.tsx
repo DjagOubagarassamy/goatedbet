@@ -320,12 +320,13 @@ function App() {
               ))}
             </div>
 
-            <button
-              className="w-full bg-green-500 hover:bg-green-600 text-white py-4 rounded-lg text-lg font-semibold transition-all transform hover:scale-105 shadow-lg mb-4"
-              
+            <a
+              href="https://buy.stripe.com/7sY5kEbIJd5L5RTgjn7Zu00"
+              rel="noopener noreferrer"
+              className="w-full bg-green-500 hover:bg-green-600 text-white py-4 rounded-lg text-lg font-semibold transition-all transform hover:scale-105 shadow-lg mb-4 flex items-center justify-center"
             >
               Accédez immédiatement
-            </button>
+            </a>
 
             <p className="text-center text-sm text-gray-400">
               🔒 Paiement sécurisé • Garantie 30 jours • Accès immédiat
